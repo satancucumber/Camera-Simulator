@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Earth",
+			"Path": "C:\\Users\\Милана\\UEProjects\\Earth\\Source\\Earth.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EarthEditor",
+			"Path": "C:\\Users\\Милана\\UEProjects\\Earth\\Source\\EarthEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

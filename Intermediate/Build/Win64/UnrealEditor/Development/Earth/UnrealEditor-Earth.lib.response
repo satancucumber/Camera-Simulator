@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Earth.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\EarthEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\UnrealEditor\Development\Earth\Earth.cpp.obj"
+"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\UnrealEditor\Development\Earth\EarthGameModeBase.cpp.obj"
+"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\UnrealEditor\Development\Earth\Earth.init.gen.cpp.obj"
+"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\UnrealEditor\Development\Earth\EarthGameModeBase.gen.cpp.obj"
+"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\UnrealEditor\Development\Earth\Default.rc2.res"
+/OUT:"C:\Users\Милана\UEProjects\Earth\Intermediate\Build\Win64\UnrealEditor\Development\Earth\UnrealEditor-Earth.lib"
